@@ -1,1 +1,1 @@
-# ReusingViewControllers
+Sample project for demonstrating the use of reusable view controllers, as written about in [this article](https://medium.com/@LucasWKuipers/building-a-reusable-uiviewcontroller-a-k-a-one-vc-to-rule-them-all-32a650aede5).
